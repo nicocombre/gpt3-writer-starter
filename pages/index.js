@@ -23,8 +23,6 @@ const Home = () => {
             <h2>insert your subtitle here</h2>
           </div>
         </div>
-    <div className="prompt-container">
-          <textarea placeholder="start typing here" className="prompt-box" />
     <textarea
   className="prompt-box"
   placeholder="start typing here"

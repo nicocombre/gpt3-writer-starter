@@ -28,7 +28,7 @@ const Home = () => {
   placeholder="start typing here"
   value={userInput}
   onChange={onUserChangedText}
-></textarea>
+/>;
         </div>
       </div>
       <div className="badge-container grow">

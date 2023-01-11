@@ -16,10 +16,10 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>B2B Sales prospection assistant</h1>
+            <h1>Echo chamber annihilatoooor</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Input your message or email, you will know what is next </h2>
+            <h2>Input your opinion and know what the other side thinks </h2>
           </div>
         </div>
         <div className="prompt-container">
